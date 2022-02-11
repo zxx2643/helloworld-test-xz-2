@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    helloworld_test_xz_2/__main__.py
+    helloworld_test_xz_2/_version.py
+    versioneer.py
+    tests/*
